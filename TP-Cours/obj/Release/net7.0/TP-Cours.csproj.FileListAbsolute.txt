@@ -1,0 +1,15 @@
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/bin/Release/net7.0/TP-Cours
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/bin/Release/net7.0/TP-Cours.deps.json
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/bin/Release/net7.0/TP-Cours.runtimeconfig.json
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/bin/Release/net7.0/TP-Cours.dll
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/bin/Release/net7.0/TP-Cours.pdb
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.csproj.AssemblyReference.cache
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.AssemblyInfoInputs.cache
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.AssemblyInfo.cs
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.csproj.CoreCompileInputs.cache
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.dll
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/refint/TP-Cours.dll
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.pdb
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/TP-Cours.genruntimeconfig.cache
+/Users/debrasnicolas/Projects/TP-Cours/TP-Cours/obj/Release/net7.0/ref/TP-Cours.dll
